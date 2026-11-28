@@ -12,3 +12,4 @@ joblib
 requests
 jupyter
 ipykernel
+streamlit
